@@ -23,14 +23,8 @@ _Entire course and video content updated June 15, 2024_
 [![Issues][issues-shield]][issues-url]
 [![GPLv3 License][license-shield]][license-url]
 
-<p align="center">
-    <br />
-    <a href="tps://cyfrin.io/">
-        <img src=".github/images/poweredbycyfrinbluehigher.png" width="145" alt=""/></a>
-<a href="tps://updraft.cyfrin.io/courses/foundry">
-        <img src=".github/images/coursebadge.png" width="242.3" alt=""/></a>
-    <br />
-</p>
+
+
 
 Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Cyfrin Updraft - Career Path <br>| Powered By AI |<br>| Beginner to Expert Path |<br>| Foundry Edition 2024 |
 
