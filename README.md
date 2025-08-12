@@ -42,15 +42,6 @@ Please refer to this for an in-depth explanation of the content:
 - [Codehawks](https://codehawks.com) - Smart contracts auditing competitions to help secure web3
 <!-- *Lol, my t-shirt is backwards in 2 of them* -->
 
-<br/>
-
-<p align="center">
-<a href="https://youtu.be/-1GB6m39-rM?si=rImbgmtZZ0M1HA-0" target="_blank">
-        <img src="./thumbnails/2024-update.png" width="750" alt="Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI">
-      </a>
-</p>
-
-<br/>
 
 Cyfrin Updraft Courses:
 
